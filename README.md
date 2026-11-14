@@ -93,5 +93,3 @@ Concepts Demonstrated
 - SQL Queries (INSERT, SELECT, UPDATE, DELETE)
 - Primary Keys and Foreign Keys
 - Data Persistence using SQLite
-
-## 🎯 Project
